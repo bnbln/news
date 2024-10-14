@@ -10,6 +10,7 @@ export default function HomeScreen() {
   const newsItems = [
     { title: 'Nachricht 1', content: 'Inhalt der ersten Nachricht' },
     { title: 'Nachricht 2', content: 'Inhalt der zweiten Nachricht' },
+    { title: 'Nachricht 3', content: 'Inhalt der dritten Nachricht' },
     // Weitere Nachrichten hier hinzufügen
   ];
 
